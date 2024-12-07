@@ -1,0 +1,203 @@
+@keyframes slideDown {
+    0% {
+        top: -100px;
+    }
+
+    100% {
+        top: 0;
+    }
+}
+
+header {
+    position: fixed;
+    top: -100px;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    width: 100%;
+    animation: slideDown 0.5s ease-out forwards;
+    height: 15%;
+    width: 100%;
+    background-color: dimgray;
+    color: white;
+    padding: 20;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+head {
+    padding: 340px;
+}
+
+
+body {
+    line-height: 1.9em;
+    font-family: sans-serif;
+    font-size: 18.5px;
+    margin-top: 106px;
+    margin-left: 53px;
+    margin-right: 53px;
+    background-color: #ffffff;
+}
+
+#Titulo {
+    text-align: center;
+    background-color: #ffa200;
+    font-style: italic;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    line-height: 32px;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+    padding: 2px 4px;
+    line-height: 0;
+}
+
+#Negraxa {
+    text-align: center;
+    background: linear-gradient(to top, #371f41 50%, transparent 50%);
+    font-style: italic;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    line-height: 32px;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: 2px 4px;
+    line-height: 0;
+}
+
+#Regina {
+    text-align: center;
+    background: linear-gradient(to top, #fae79b 50%, transparent 50%);
+    font-style: italic;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    line-height: 32px;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: 2px 4px;
+    line-height: 0;
+}
+
+#GS1 {
+    text-align: center;
+    background: linear-gradient(to top, #654790 50%, transparent 50%);
+    font-style: italic;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    line-height: 32px;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: 2px 4px;
+    line-height: 0;
+}
+
+#Logos {
+    text-align: center;
+    background: linear-gradient(to top, #2e7290 50%, transparent 50%);
+    font-style: italic;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    line-height: 32px;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: 2px 4px;
+    line-height: 0;
+}
+
+
+#multiverse {
+    text-align: center;
+    background: linear-gradient(to top, #57abfc 50%, transparent 50%);
+    font-style: italic;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    line-height: 32px;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: 2px 4px;
+    line-height: 0;
+}
+
+#GS2 {
+    text-align: center;
+    background: linear-gradient(to top, #d36f9c 50%, transparent 50%);
+    font-style: italic;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    line-height: 32px;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: 2px 4px;
+    line-height: 0;
+}
+
+#BLU {
+    text-align: center;
+    background: linear-gradient(to top, #47babb 50%, transparent 50%);
+    font-style: italic;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    line-height: 32px;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: 2px 4px;
+    line-height: 0;
+}
+
+#Maestro {
+    text-align: center;
+    background: linear-gradient(to top, #a54c26 50%, transparent 50%);
+    font-style: italic;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    line-height: 32px;
+    padding: 10px;
+    margin-bottom: 5px;
+    display: inline-block;
+    padding: 2px 4px;
+    line-height: 0;
+}
+
+#inf {
+    font-weight: 400;
+    padding: 0px 5px 35px;
+    font-style: normal;
+    word-break: normal;
+    word-wrap: normal;
+
+
+}
+
+.imagens {
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 450px;
+    height: 450px;
+}
+
+footer {
+    position: relative;
+    bottom: 22px;
+}
